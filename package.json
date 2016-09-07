@@ -1,0 +1,24 @@
+{
+  "name": "node-beauty-advance",
+  "version": "1.0.0",
+  "description": "node-beauty 高级版",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixihaoyue/node-beauty-advance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixihaoyue/node-beauty-advance/issues"
+  },
+  "homepage": "https://github.com/sixihaoyue/node-beauty-advance#readme",
+  "dependencies": {
+    "lodash": "*",
+    "log4js": "*",
+    "restify": "*"
+  }
+}
