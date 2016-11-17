@@ -1,6 +1,6 @@
 {
   "name": "node-beauty-advance",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "node-beauty 高级版",
   "main": "app.js",
   "scripts": {
@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/sixihaoyue/node-beauty-advance#readme",
   "dependencies": {
-    "lodash": "*",
+    "lodash": "^4.17.2",
     "log4js": "*",
+    "mongodb": "^2.2.11",
     "restify": "*"
   }
 }
