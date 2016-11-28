@@ -1,6 +1,6 @@
 {
   "name": "node-beauty-advance",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "node-beauty 高级版",
   "main": "app.js",
   "scripts": {
